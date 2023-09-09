@@ -18,7 +18,7 @@ function compareUserInputToCorrectAnswer(userInput) {
  }
 
 ```
-Now ,if one inspected the Javascript script he could find the answer.<br>
+Now, if one inspected the Javascript script he could find the answer.<br>
 So by using Javascript obfuscation we can make it harder to read the webpage Javascript code.<br>
 In this example <a href="https://javascriptobfuscator.com/">js-obfuscator</a> was used.<br>
 Now after the obfuscation that function should look somthing like this:
