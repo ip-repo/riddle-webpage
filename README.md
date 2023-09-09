@@ -1,6 +1,6 @@
 # riddle-webpage: Example of JavaScript obfuscation.
 <hr>
-
+<img src="webpage-preview.png"></img>
 In this example there is a wepage with a photo ,input box and button.<br>
 The user need to solve a riddle based on the photo and he is encouraged to use the browser <b>inspect tool </b>.
 <h2><a href="https://ip-repo.github.io/riddle-webpage/">Go ahead and try solve the riddle </a></h2>
